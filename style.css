@@ -1,4 +1,12 @@
-html {
+h1 {
   height: 100%;
   width: 100%;
+   background-color: rgba(38, 101, 237, 1);
+  dislay:inline-block;
 }
+
+
+body {
+ 
+}
+h1
